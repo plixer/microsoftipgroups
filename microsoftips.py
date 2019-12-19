@@ -11,8 +11,8 @@ print('Microsoft Data Retrieved')
 
 report_params = ReportAPI()
 scrutinizer_requester = Requester(
-    authToken="tzvqXbREMSxN8djtKrTZmnM1",
-    hostname="demo.plixer.com"
+    authToken="your-auth-token-here",
+    hostname="your-scrutinizer-hostname-here"
 )
 
 
